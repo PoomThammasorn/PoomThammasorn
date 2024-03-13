@@ -30,7 +30,7 @@
 
 </div>
 
-<h3 align="center">💭 Interested in</h3>
+<!--- <h3 align="center">💭 Interested in</h3>
 
 <div align="center">
   
@@ -38,7 +38,7 @@
   <img alt="Django" height="28" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
   
   
-</div>
+</div> -->
 
 <h3 align="center">🌟 Top Languages</h3>
 
