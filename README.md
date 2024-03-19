@@ -44,7 +44,7 @@
 
 <div align="center">
   
-  <img alt="StatsPoomThammasorn" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoomThammasorn&theme=tokyonight&layout=compact&hide=Makefile,Assembly,C">
+  <img alt="StatsPoomThammasorn" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoomThammasorn&theme=apprentice&layout=compact&hide=Makefile,Assembly,C">
   
 </div>
 
