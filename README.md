@@ -48,3 +48,14 @@
   
 </div>
 
+<h3 align="center">📊 GitHub Stats</h3>
+
+<div align="center">
+  
+  
+  ![Poom's GitHub stats](https://github-readme-stats.vercel.app/api?username=poomthammasorn&show_icons=true&theme=apprentice)
+  
+</div>
+
+
+
