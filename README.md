@@ -45,7 +45,7 @@
 
 <div align="center">
   
-  <img alt="StatsPoomThammasorn" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoomThammasorn&theme=apprentice&layout=compact&hide=Makefile,Assembly,C">
+ <img alt="StatsPoomThammasorn" src="https://github-readme-stats-beta-tawny-84.vercel.app/api/top-langs/?username=PoomThammasorn&theme=highcontrast&layout=compact&hide=Makefile,Assembly,C">
   
 </div>
 
@@ -54,7 +54,7 @@
 <div align="center">
   
   
-  ![Poom's GitHub stats](https://github-readme-stats.vercel.app/api?username=poomthammasorn&show_icons=true&theme=apprentice)
+  ![Poom's GitHub stats](https://github-readme-stats-beta-tawny-84.vercel.app/api?username=poomthammasorn&show_icons=true&theme=highcontrast)
   
 </div>
 
