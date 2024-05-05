@@ -45,7 +45,7 @@
 
 <div align="center">
   
- <img alt="StatsPoomThammasorn" src="https://github-readme-stats-beta-tawny-84.vercel.app/api/top-langs/?username=PoomThammasorn&theme=highcontrast&layout=compact&hide=Makefile,Assembly,C,Verilog,Tcl">
+ <img alt="StatsPoomThammasorn" src="https://github-readme-stats-beta-tawny-84.vercel.app/api/top-langs/?username=PoomThammasorn&theme=highcontrast&layout=compact&hide=Makefile,Assembly,C">
   
 </div>
 
