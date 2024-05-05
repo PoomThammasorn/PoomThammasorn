@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm Thammasorn! 👋</h1>
-<p align="center">I'm a Computer Engineering student at <a href="https://www.chula.ac.th/en/" target="_blank" >Chulalongkorn University</a> with a passion for Software Development.</p>
+<p align="center">I'm a <a href="https://www.cp.eng.chula.ac.th/future/bachelor">Computer Engineering</a> student at <a href="https://www.chula.ac.th/en/about/overview/introduction-to-chula" target="_blank" >Chulalongkorn University</a> with a passion for Software Development.</p>
 <p align="center">Welcome to my GitHub profile! 🚀</p>
 
 <div align="center">
